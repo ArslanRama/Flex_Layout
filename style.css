@@ -173,8 +173,8 @@ footer {
     width: 100%;
     background: rgba(218, 213, 213, 0.897);
     border-top: 5px solid rgba(30,144,255,0.3);
- 
 }
+
 .footer-container {
     width: 85%;
     margin: 0 auto;
@@ -184,35 +184,43 @@ footer {
     align-items: center;
     font-size: 1.2rem;
 }
+
 footer .footer-container .sub-content div span {
     line-height: 30px;
 }
 
 iframe { 
-    border-radius: 7px;
+    border-radius: 10px;
 }
+
 footer .footer-container .sub-content div a {
     text-decoration: none;
     color: black;
     line-height: 30px;
     margin: 0 2px 0 0;
 }
+
 footer .footer-container .sub-content:nth-of-type(3) div {
     text-align: right;
 }
+
 .fa-facebook-square {
     color: blue;
 }
+
 .fa-twitter-square {
     color: lightskyblue;
 }
+
 .fa-instagram {
     color: red;
 }
+
 .fa-phone {
     font-weight: 600;
     margin: 0 5px 0 0;
 }
+
 .fa-envelope-o {
     font-weight: 600;
     margin: 0 5px 0 0;
